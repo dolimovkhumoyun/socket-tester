@@ -1,11 +1,16 @@
 {
-  "name": "socket-test",
+  "name": "test-utility",
+  "homepage": ".",
+  "start_url": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-json-editor-ajrm": "^2.5.9",
+    "react-scripts": "3.1.1",
+    "socket.io-client": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+#a_unique_id {
+  color: black !important;
+}
+.json-editor {
+  border: 1px solid black !important;
+}
